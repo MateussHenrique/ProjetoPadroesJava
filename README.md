@@ -1,6 +1,29 @@
-# Explorando Padrões de Projetos na Prática com Java
+# 📦 Sistema de Pedidos e Entregas
 
-Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando Java puro:
-- Singleton
-- Strategy
-- Facade
+Projeto desenvolvido em Java aplicando conceitos de
+Programação Orientada a Objetos e Design Patterns.
+
+## 🎯 Objetivo
+
+Desenvolver um sistema de pedidos e entregas utilizando
+padrões de projeto para organizar a criação dos objetos.
+
+## 🧩 Padrões utilizados
+
+- Factory Method
+- Abstract Factory
+
+## 🛠️ Tecnologias
+
+- Java 17
+- POO
+- Design Patterns
+
+## 📚 Conceitos praticados
+
+- Encapsulamento
+- Herança
+- Polimorfismo
+- Interfaces
+- Factory Method
+- Abstract Factory
